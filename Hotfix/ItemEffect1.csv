@@ -1,1 +1,4 @@
 Id,LegacySlotIndex,TriggerType,Charges,CoolDownMSec,CategoryCoolDownMSec,SpellCategoryID,SpellID,ChrSpecializationID,ParentItemID
+97120,0,0,-1,300000,300000,28,7396,0,1322
+98288,0,0,-1,300000,1000,59,9512,0,7676
+99240,0,0,-1,60000,1000,11,15700,0,11951
