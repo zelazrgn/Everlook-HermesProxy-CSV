@@ -253,11 +253,11 @@ Goblin Rocket Helmet
 
 Greater Astral Essence
 * shared cooldown group changed to 0
-* shared cooldown changed from 0.5 seconds to -0.001 seconds
+* shared cooldown changed from 0.5 seconds to 0 seconds
 
 Greater Eternal Essence
 * shared cooldown group changed to 0
-* shared cooldown changed from 0.5 seconds to -0.001 seconds
+* shared cooldown changed from 0.5 seconds to 0 seconds
 
 Greater Healthstone
 * shared cooldown group changed to 30
@@ -269,15 +269,15 @@ Greater Healthstone
 
 Greater Magic Essence
 * shared cooldown group changed to 0
-* shared cooldown changed from 0.5 seconds to -0.001 seconds
+* shared cooldown changed from 0.5 seconds to 0 seconds
 
 Greater Mystic Essence
 * shared cooldown group changed to 0
-* shared cooldown changed from 0.5 seconds to -0.001 seconds
+* shared cooldown changed from 0.5 seconds to 0 seconds
 
 Greater Nether Essence
 * shared cooldown group changed to 0
-* shared cooldown changed from 0.5 seconds to -0.001 seconds
+* shared cooldown changed from 0.5 seconds to 0 seconds
 
 Gyrofreeze Ice Reflector
 * shared cooldown group changed to 28
@@ -313,7 +313,7 @@ Horde Battle Standard
 * shared cooldown changed from 120 seconds to 0 seconds
 
 Horn of the Frostwolf Howler
-* shared cooldown changed from -0.001 seconds to 3 seconds
+* shared cooldown changed from 0 seconds to 3 seconds
 
 Horned Viking Helmet
 * shared cooldown group changed to 29
@@ -337,11 +337,11 @@ Lei of Lilies
 
 Lesser Astral Essence
 * shared cooldown group changed to 0
-* shared cooldown changed from 0.5 seconds to -0.001 seconds
+* shared cooldown changed from 0.5 seconds to 0 seconds
 
 Lesser Eternal Essence
 * shared cooldown group changed to 0
-* shared cooldown changed from 0.5 seconds to -0.001 seconds
+* shared cooldown changed from 0.5 seconds to 0 seconds
 
 Lesser Healthstone
 * shared cooldown group changed to 30
@@ -353,15 +353,15 @@ Lesser Healthstone
 
 Lesser Magic Essence
 * shared cooldown group changed to 0
-* shared cooldown changed from 0.5 seconds to -0.001 seconds
+* shared cooldown changed from 0.5 seconds to 0 seconds
 
 Lesser Mystic Essence
 * shared cooldown group changed to 0
-* shared cooldown changed from 0.5 seconds to -0.001 seconds
+* shared cooldown changed from 0.5 seconds to 0 seconds
 
 Lesser Nether Essence
 * shared cooldown group changed to 0
-* shared cooldown changed from 0.5 seconds to -0.001 seconds
+* shared cooldown changed from 0.5 seconds to 0 seconds
 
 Ley Orb
 * shared cooldown group changed to 30
@@ -372,7 +372,7 @@ Lifestone
 * shared cooldown changed from 0 seconds to 180 seconds
 
 Lil' Smoky
-* cooldown changed from -0.001 seconds to 0 seconds
+* cooldown changed from 0 seconds to 0 seconds
 
 Lily Root
 * shared cooldown group changed to 4
@@ -489,7 +489,7 @@ Ornate Mithril Boots
 * shared cooldown changed from 0 seconds to 30 seconds
 
 Pet Bombling
-* cooldown changed from -0.001 seconds to 0 seconds
+* cooldown changed from 0 seconds to 0 seconds
 
 Powerful Anti-Venom
 * shared cooldown changed from 0 seconds to 60 seconds
@@ -549,7 +549,7 @@ Severed Voodoo Claw
 
 Shadowstrike
 * shared cooldown group changed to 0
-* cooldown changed from -0.001 seconds to 60 seconds
+* cooldown changed from 0 seconds to 60 seconds
 * shared cooldown changed from 60 seconds to 0 seconds
 
 Six Demon Bag
@@ -633,7 +633,7 @@ Thunderbrew's Boot Flask
 
 Thunderstrike
 * shared cooldown group changed to 0
-* cooldown changed from -0.001 seconds to 60 seconds
+* cooldown changed from 0 seconds to 60 seconds
 * shared cooldown changed from 60 seconds to 0 seconds
 
 Tidal Charm
