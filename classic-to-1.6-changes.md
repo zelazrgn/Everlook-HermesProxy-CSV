@@ -371,9 +371,6 @@ Lifestone
 * shared cooldown group changed to 30
 * shared cooldown changed from 0 seconds to 180 seconds
 
-Lil' Smoky
-* cooldown changed from 0 seconds to 0 seconds
-
 Lily Root
 * shared cooldown group changed to 4
 
@@ -460,10 +457,6 @@ Night Dragon's Breath
 * cooldown changed from 0 seconds to 60 seconds
 * shared cooldown changed from 120 seconds to 1 seconds
 
-Noggenfogger Elixir
-* shared cooldown group changed to 4
-* shared cooldown changed from 0 seconds to 120 seconds
-
 Olaf's All Purpose Shield
 * shared cooldown group changed to 28
 * shared cooldown changed from 0 seconds to 300 seconds
@@ -487,9 +480,6 @@ Orb of Soran'ruk
 Ornate Mithril Boots
 * shared cooldown group changed to 28
 * shared cooldown changed from 0 seconds to 30 seconds
-
-Pet Bombling
-* cooldown changed from 0 seconds to 0 seconds
 
 Powerful Anti-Venom
 * shared cooldown changed from 0 seconds to 60 seconds
